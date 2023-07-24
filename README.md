@@ -1,2 +1,232 @@
 # Minecraft RPG Edition
- 
+ ## Modlist
+ - Advancement Plaques
+- Advancement Screenshot
+- Aileron
+- Allurement
+- Ambient Sounds
+- Another Furniture
+- Antique Atlas
+- Archers Paradox
+- Architectury
+- Areas
+- Auto Third Person
+- -Auto Reg Lib
+- Auudio
+- Balm
+- Beautified Chat Client
+- Bed Benefits
+- Bedspreads
+- Better Biome Blend
+- Better Combat
+- Better F3
+- Better Lily
+- Better Spawner Control
+- Better Stats
+- Better Village
+- Bigger Sponge Absorption Radius
+- Bigger Stacks
+- Biome Music
+- Biome Spawn Point
+- Blueprint
+- Boatload
+- Bookshelf
+- Bottled Air
+- Bottle Your XP
+- Bouncier Beds
+- Bundle Delight
+- Callable Horses
+- Carry On
+- CDW (disabled)
+- Chalk
+- Charms
+- Chef’s Delight
+- Chicken Shed
+- Citadel
+- Clear Despawn
+- Cloak and Dagger
+- Cloth Config
+- Clumps
+- CNB
+- CoFH Core
+- Collective
+- Combat Roll
+- Comforts
+- Compact Help Command
+- Continents
+- Controllable
+- Corail Woodcutter
+- Creative Core
+- Creeper AI Updated
+- Creeper Overhaul
+- Cristellib
+- Crying Ghasts
+- Crying Portals
+- CTM
+- Curios
+- Curios Quark OBP
+- Customized Dungeon Loot
+- Dangerous Stonecutter
+- Default Options
+- Detail Armor Bar
+- Dismount Entity
+- Do a Barrel Roll (disabled)
+- Drippy Loading Screen
+- Drip Sounds
+- Dynamic Crosshair
+- Dynmus (disabled)
+- Easy Magic
+- Edibles
+- Effective FG
+- Enchantment Descriptions
+- End Remastered
+- Ends Delight
+- Entity Collision FPS Fix
+- Equipment Compare
+- Extract Poison
+- Extra Mob Drops
+- Falling Leaves
+- Fancy Menu
+- Farmer’s Delight
+- Farsight
+- Fast Leaf Decay
+- Feature NBT Deadlock Be Gone
+- Festive Delight
+- First Join Message
+- First Person
+- Fish on the Line
+- FM Audio Extension
+- Followers Teleport Too
+- Footwork
+- FPS Reducer 2
+- Functional Fletching Table 2.0
+- Geckolib Forge
+- Global Game Rules
+- Golden Hopper
+- Grass Seeds
+- Guard Villagers
+- GUI Clock
+- Healing Campfire
+- Hourglass
+- Hunter Illager
+- Iceberg
+- Ice Prevents Crop Growth
+- Immersive Armors
+- Item Physic Lite
+- Jeed
+- JEI
+- Jump Boat
+- Just Enough Advancements
+- Just Enough Professions
+- Just Enough Resources
+- Just Zoom
+- Keymap
+- Konkrete Forge
+- Leap
+- Legendary Tooltips
+- Library Ferret Forge
+- LibX
+- Lightspeed
+- Load My Resources Forge
+- Log Begone
+- Log Prot
+- Loot Integrations
+- Lootr
+- MD (disabled)
+- Medieval Paintings Mod
+- Memory Leak Fix
+- Miner’s Delight
+- Missing Wilds
+- MmmMmmMmmMmm
+- Mob Health Bar
+- More Villagers
+- Naturalist
+- Neko’s Enchanted Books
+- Nether’s Delight
+- No Durability
+- No Hostiles Around Campfire
+- Not Enough Animations
+- Not Enough Crashes
+- Notes
+- Ocean’s Delight
+- Oculus MC
+- Paper Books
+- Passable Foliage
+- Paxi
+- Physics Mod Pro
+- Pick Up Notifier
+- Player Animation Lib
+- PMMO (disabled)
+- Polymorph
+- Presence Footsteps
+- Presence Not Required
+- Prism
+- Project Save the Pets
+- Public GUI Announcement
+- Puzzles Lib
+- Quark
+- Quark Oddities
+- Random Village Names
+- Repurposed Structures
+- Reputation
+- Rotten Creatures
+- RPGZ
+- Rubidium
+- Rubidium Extra
+- Sapience
+- Second Chance
+- Selene
+- Serene Seasons
+- Shield Expansion
+- Shoulder Surfing
+- Shut Up Experimental Settings
+- Simple Weapons (disabled)
+- Simple Weapons
+- Sit
+- Skeleton Horse Spawn
+- Snow Under Trees
+- Softer Hay Bales
+- Sound Physics
+- Spawn Animations
+- Spiders Produce Webs
+- Starter Kit
+- Starter Structure
+- Structure Gel
+- Supplementaries
+- Surface Mushrooms
+- The Conjurer
+- Tips
+- TLC
+- TNT Breaks Bedrock
+- Traveler’s Titles
+- Tree Harvester
+- Tumbleweed
+- Twigs
+- Underwater Enchanting
+- Universal Bone Meal
+- Valhelsia Core
+- Valhelsia Structures
+- Various Update
+- Villager Comfort
+- Villager Names
+- Visual Workbench
+- Voice Chat
+- Wall Jump
+- Weaker Spider Webs
+- Weapon Master Multi
+- Wild Backport
+- Wool Collection
+- World Edit Mod
+- Yung’s API
+- Yung’s Better Desert Temples
+- Yung’s Better Dungeons
+- Yung’s Better Mineshafts
+- Yung’s Better Nether Fortresses
+- Yung’s Better Ocean Monuments
+- Yung’s Better Strongholds
+- Yung’s Better Witch Huts
+- Yung’s Bridges
+- Yung’s Extras
+- Z Medieval Music
+- Zombie Horse Spawn
+- Zombie Proof Doors
